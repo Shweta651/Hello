@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/c++.h>
 #include<cstdlib>
 using namespace std;
 #define SIZE 10
