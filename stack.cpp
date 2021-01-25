@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/c++.h>
+//Line is being deleted successfully
 #include<cstdlib>
 using namespace std;
 #define SIZE 10
