@@ -86,4 +86,11 @@ int main()
 		cout<<"Stack is not empty";
 	return 0;
 }
+<<<<<<< HEAD
 //Main comment
+=======
+
+
+
+//Bugfix comment
+>>>>>>> a4e8939 (bugfix comment)
