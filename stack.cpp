@@ -1,5 +1,9 @@
 #include<iostream>
+<<<<<<< HEAD
 //Line is being deleted successfully
+=======
+
+>>>>>>> 3b75625 (bugfix comment)
 #include<cstdlib>
 using namespace std;
 #define SIZE 10
